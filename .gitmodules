@@ -1,0 +1,3 @@
+[submodule "spree_flexi_variants"]
+	path = spree_flexi_variants
+	url = git@github.com:fthylmz/spree_flexi_variants
